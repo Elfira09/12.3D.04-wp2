@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://locallhost/12.3D.04_wp2/';
+$config['base_url'] = 'http://localhost/12.3D.04_wp2/ci/bcit-ci-CodeIgniter-3.1.13-0-gbcb17eb/bcit-ci-CodeIgniter-bcb17eb/';
 
 /*
 |--------------------------------------------------------------------------
@@ -35,7 +35,7 @@ $config['base_url'] = 'https://locallhost/12.3D.04_wp2/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------

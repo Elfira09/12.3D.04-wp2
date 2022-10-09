@@ -2,4 +2,4 @@ nama        :ELFIRA DWI KIANNISA
 nim         :12211541
 alamat      :KP.CIBITUNG BEKASI
 kelas       :12.3D.04
-mata kuliah :SISTEM IN
+mata kuliah :SISTEM INFORMASI
